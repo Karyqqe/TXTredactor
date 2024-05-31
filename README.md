@@ -20,3 +20,16 @@
 
 ![image](https://github.com/Karyqqe/TXTredactor/assets/133410772/90c69dfb-46ac-4308-b6bb-6fb675ac50b9)
 Перезапись существующего файла
+
+
+
+![image](https://github.com/Karyqqe/TXTredactor/assets/133410772/db7f27e3-54e7-491e-b3ef-8a5d92f57ee8)
+![image](https://github.com/Karyqqe/TXTredactor/assets/133410772/a30adfa4-431d-4a3f-9aba-31a0c809b1de)
+![image](https://github.com/Karyqqe/TXTredactor/assets/133410772/651a1007-5f16-494c-911c-76d6dcd64da3)
+![image](https://github.com/Karyqqe/TXTredactor/assets/133410772/09f5034d-410c-455f-a79e-36933a2c321e)
+Cмена текущего пути
+
+![image](https://github.com/Karyqqe/TXTredactor/assets/133410772/539e740a-be26-4c93-a7ec-a4cd924975c4)
+![image](https://github.com/Karyqqe/TXTredactor/assets/133410772/67c41a5b-33bc-4ab3-ad7d-a7398eaf5491)
+![image](https://github.com/Karyqqe/TXTredactor/assets/133410772/b5eda316-35d7-4850-8202-d6dc3864ba08)
+создание новой директории
